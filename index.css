@@ -1,0 +1,99 @@
+img.head{display: block;
+    margin-left: center;
+    margin-right: center; 
+    width: auto; 
+    height: 386
+    }
+body{background-image: url('eclipce.jpg');
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+    margin-left: center;
+    margin-right: center; 
+    width: fit-content; 
+    height: fit-content;
+    color:LightGoldenRodYellow
+    }
+h1
+{
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle;
+    color:LightGoldenRodYellow
+}
+h2
+{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle
+}
+h3
+{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle
+}
+h4{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle
+}
+h6{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle
+}
+details
+{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    margin-block-end: center;
+    width: 80em;
+    height: 30px;
+    vertical-align: middle    
+}
+summary
+{
+    color:LightGoldenRodYellow;
+    position:center;
+    margin-left: center;
+    margin-right: center;
+    
+    width: 80em;
+    height: 30px;
+    vertical-align: middle     
+}
+iframe{
+    
+    margin: 120px;
+    margin-left: center;
+    margin-right: center; 
+    height: 300px;
+    
+}
+footer{
+    height: 50px;
+    background-color:rgb(143, 101, 221);
+}
